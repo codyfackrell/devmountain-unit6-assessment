@@ -1,5 +1,9 @@
-const { shuffle } = require('../src/shuffle')
+// const { shuffle } = require('../src/shuffle')
+// // const bots = require("../src/botsData");
 
-describe('shuffle should...', () => {
-  // CODE HERE
-})
+
+// describe('shuffle should...', () => {
+//   test('return an array', () => {
+//     expect(shuffle).toBe('object')
+//   })
+// })
